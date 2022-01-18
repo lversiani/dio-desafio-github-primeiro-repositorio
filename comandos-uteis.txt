@@ -1,0 +1,20 @@
+Comandos úteis pro Prompt de Comando do Windows:
+cdm - abre prompt de comando
+dir - lista os diretórios
+cd (windows/workspace) - abre um diretório
+mkdir - cria um novo diretório/pasta
+rmdir nomedodiretório /S /Q - remove um arquivo dentro do diretório
+del nomedodiretório - deleta todos os arquivos do diretório
+cls - clear limpa o prompt
+echo algo > algo.txt - cria novo arquivo dentro de um diretório
+cd .. - volta pro último diretório aberto (retrocede no caminho)
+________________________________________________________________
+Comandos do Git Bash:
+ls - lista
+git add * - adicionar novo arquivo
+git status - mostra status do arquivo
+git commit -m "nome-tarefa" - commitar arquivo
+git push origin master - empurra arquivo pro github
+git add . - adiciona todos os arquivos pendentes
+git clone *chave SSH* - puxa arquivo do github para a máquina local
+
