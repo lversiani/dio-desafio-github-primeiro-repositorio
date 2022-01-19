@@ -1,4 +1,4 @@
-Comandos úteis pro Prompt de Comando do Windows:
+giComandos úteis pro Prompt de Comando do Windows:
 cdm - abre prompt de comando
 dir - lista os diretórios
 cd (windows/workspace) - abre um diretório
@@ -17,4 +17,10 @@ git commit -m "nome-tarefa" - commitar arquivo
 git push origin master - empurra arquivo pro github
 git add . - adiciona todos os arquivos pendentes
 git clone *chave SSH* - puxa arquivo do github para a máquina local
+________________________________________________________________
+Comandos para clonar o repositório do GitHub na minha máquina:
+git clone *copiar chave SSH do repositório*
+________________________________________________________________
+Passo a passo pra empurrar arquivos/pastas da minha máquina pro GitHub:
+
 
