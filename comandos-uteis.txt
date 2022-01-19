@@ -21,6 +21,10 @@ ________________________________________________________________
 Comandos para clonar o repositório do GitHub na minha máquina:
 git clone *copiar chave SSH do repositório*
 ________________________________________________________________
-Passo a passo pra empurrar arquivos/pastas da minha máquina pro GitHub:
+Passo a passo pra empurrar um arquivo modificado da minha máquina para o GitHub:
+git status
+git add .
+git commit -m "referência aqui"
+git push origin main
 
 
